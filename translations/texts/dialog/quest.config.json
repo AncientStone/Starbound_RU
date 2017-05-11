@@ -335,7 +335,7 @@
     },
     "Texts": {
       "Eng": "Alright alright, I'll pay up! Yer cornered me!",
-      "Rus": ""
+      "Rus": "Хорошо, хорошо, я заплачу! Ты загнал меня в угол!"
     }
   },
   {
@@ -361,7 +361,7 @@
     },
     "Texts": {
       "Eng": "An exquisite job, if I say so myself! Would you take this parcel to <questGiver> for me?",
-      "Rus": ""
+      "Rus": "Превосходная работа, я так скажу! Вы возьмете эту посылку <questGiver> для меня?"
     }
   },
   {
